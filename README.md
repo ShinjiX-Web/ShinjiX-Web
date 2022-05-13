@@ -1,4 +1,4 @@
-🧑‍🎓Self-Taught Web Developer
+🧑‍🎓Self-Taught Web Developer / SEO Specialist
 
 
 🧣 Certifications:

@@ -3,6 +3,7 @@
 
 🧣 Certifications:
 
+* [API Development with Swagger and OpenAPI Course](https://www.codecademy.com/profiles/NateXError/certificates/b08b3374d7eec0280c728b0ffeeddfdb)
 * [Learn Responsive Design Course](https://www.codecademy.com/profiles/NateXError/certificates/3a62023b0054dc793edc0adecd715fd7)
 * [Google Analytics Power User](https://analytics.google.com/analytics/academy/certificate/zJ9tRuxhSfagPs-nffyTzg)
 * [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/m6y3VW2iQwKO9FVtWLYeiA)

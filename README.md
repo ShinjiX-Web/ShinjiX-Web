@@ -17,8 +17,6 @@ Tech Stack
      <li> Hi 👋, I'm Nate </li>
      <li> A Shopify Full-stack Developer working in Clark 🇵🇭 </li> 
      <li> 3 years experience as a Front-end Developer</li>
-     <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li>
-     <li> I'm a community manager at 4C (https://www.4c.rocks/) </li>
      <li> Now studying:   
         <ul> 
           <li> React.js </li>   

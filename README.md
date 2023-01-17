@@ -61,7 +61,7 @@ Tech Stack
     <img src="https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat">
     <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat">  
     <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&style=flat">  
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=flat"><br>
     <a href="https://app.daily.dev/shinjix"><img src="https://api.daily.dev/devcards/6246f05b3bf3454d8de6468d9c717b48.png?r=fa5" width="400" alt="ShinjiX's Dev Card"/></a>
   </td>
 </tr>
